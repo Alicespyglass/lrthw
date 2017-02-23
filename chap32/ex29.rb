@@ -40,6 +40,11 @@ puts "nope" # still worked when not indented
 end
 
 puts "Let's try other Boolean expressions"
+
 if people < cats || dogs < cats
   puts "Cats winning"
+end
+
+if people < cats && dogs > cats
+  puts "what now?"
 end
