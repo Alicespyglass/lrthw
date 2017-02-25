@@ -1,0 +1,8 @@
+Ex37: Symbol Review
+
+Excellent summary of
+- Keywords
+- Data Types
+- Operators
+
+Will print out and review code.
